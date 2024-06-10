@@ -1,0 +1,9 @@
+re
+base64
+requests
+argparse
+rich
+urllib3
+alive-progress
+prompt_toolkit
+concurrent-futures
